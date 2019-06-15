@@ -4,3 +4,6 @@ body{
 app-root{
     height:100%;
 }
+.layout{
+    min-height:100%;
+}
